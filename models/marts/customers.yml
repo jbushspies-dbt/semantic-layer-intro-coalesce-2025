@@ -1,0 +1,5 @@
+semantic_models:
+  - name: customers
+    model: ref('customers')
+    # defaults:
+    #   agg_time_dimension: first_ordered_at
